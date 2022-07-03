@@ -32,7 +32,8 @@ saber. E caso você conheça alguém que se identidique com o conteúdo, não de
 
 
 <p dir="auto"> Projeto desenvolvido utilizando a ajuda e os conhecimentos da equipe, 
-<a href=" https://www.dio.me/ "> Digital Innovation One <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥</g-emoji> </a></p>
+<a href=" https://www.dio.me/ "> Digital Innovation One <g-emoji class="g-emoji" alias="hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png">♥</g-emoji> </a>
+</p>
   
 
 
