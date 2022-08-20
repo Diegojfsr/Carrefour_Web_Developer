@@ -1,5 +1,5 @@
 
-<h1> Sejam bem-vindos!!! 
+<h1> Sejam bem-vindos!!! <br>
 Esse é o meu repositorio de projetos e codigos no programa Carrefour Web Developer. </h1>
 
 <h4> Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Carrefour Web Developer. </h4>
@@ -20,10 +20,11 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 <p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
 
-<p dir="auto"> Projeto desenvolvido utilizando a ajuda e os conhecimentos da equipe, 
-<a href=" https://www.dio.me/ "> Digital Innovation One <a href="https://www.dio.me/"> 
-<strong>  Digital Innovation One ❤️ </strong> </a>
-
+<p dir="auto"> 
+  Projeto desenvolvido utilizando a ajuda e os conhecimentos da equipe, 
+  <a href=" https://www.dio.me/ "> Digital Innovation One <a href="https://www.dio.me/"> 
+  <strong>  Digital Innovation One ❤️ </strong> 
+  </a>
 </p>
   
 
