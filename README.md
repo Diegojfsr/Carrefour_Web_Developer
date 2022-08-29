@@ -16,7 +16,6 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 <li> Módulo V - JAVA/SpringBoot. <a href="https://www.notion.so/diegojfsr/M-dulo-V-JAVA-SpringBoot-0223958e7b1c470ca3cb71b601606eb3"> Acessar </a></li>
 </ul>
 
-
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
