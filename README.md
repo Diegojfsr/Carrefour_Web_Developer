@@ -21,11 +21,11 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
 
 <p dir="auto">
-  <em>
+<em>
   Projeto desenvolvido utilizando a ajuda e os conhecimentos da equipe, 
   <a href=" https://www.dio.me/ "> Digital Innovation One <a href="https://www.dio.me/"> 
     <strong>  Digital Innovation One ❤️ </strong> 
-  </a>
+</a>
 </em>
 </p>
   
