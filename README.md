@@ -20,7 +20,6 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 <p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
 saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
 
-
 <p dir="auto">
 <em>
   Projeto desenvolvido utilizando a ajuda e os conhecimentos da equipe, 
