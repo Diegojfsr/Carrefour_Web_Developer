@@ -10,6 +10,7 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 
 
 
+
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
 <li> Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-0cbc8147c5564a28bdd283c4d8cf3730"> Acessar </a></li>
