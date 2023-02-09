@@ -4,7 +4,7 @@ Esse é o meu repositorio de projetos e codigos no programa Carrefour Web Develo
 
 <h4> Repositorio criado para documentar todo o meu passo a passo, projetos e codigos desenvolvidos durante o processo de formação e recrutamento pelo programa Carrefour Web Developer. </h4>
 
-![](https://github.com/Diegojfsr/GFT_Start/blob/main/Imagens/Start%20GFT.jpg)
+![](https://github.com/Diegojfsr/Carrefour_Web_Developer/blob/main/Imagens/Carrefour%20Web%20Developer.jpg)
 
 
 <h2> 🎯 Objetivo </h2>
