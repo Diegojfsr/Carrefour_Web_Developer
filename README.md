@@ -14,11 +14,11 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-0cbc8147c5564a28bdd283c4d8cf3730"> Acessar </a></li>
-<li> Módulo II - HTML/CSS3. <a href="https://www.notion.so/diegojfsr/M-dulo-II-HTML-CSS3-d78ffa4ae3ef47eeb66ddc95322c4d7c"> Acessar </a></li>
-<li> Módulo III - Javascript. <a href="https://www.notion.so/diegojfsr/M-dulo-III-Javascript-e6e0393753964deb9abc064a233efbcd"> Acessar </a></li>
-<li> Módulo IV - ReactJS. <a href="https://www.notion.so/diegojfsr/M-dulo-IV-ReactJS-ed19afbfddc14805816a6e052391af9e"> Acessar </a></li>
-<li> Módulo V - JAVA/SpringBoot. <a href="https://www.notion.so/diegojfsr/M-dulo-V-JAVA-SpringBoot-0223958e7b1c470ca3cb71b601606eb3"> Acessar </a></li>
+<li> Módulo I - Conteúdo de Abertura. <a href="https://"> Acessar </a></li>
+<li> Módulo II - HTML/CSS3. <a href="https://"> Acessar </a></li>
+<li> Módulo III - Javascript. <a href="https://"> Acessar </a></li>
+<li> Módulo IV - ReactJS. <a href="https://"> Acessar </a></li>
+<li> Módulo V - JAVA/SpringBoot. <a href="https://"> Acessar </a></li>
 </ul>
 
 
