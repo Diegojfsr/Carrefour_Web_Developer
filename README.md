@@ -14,11 +14,11 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
-<li> Módulo I - Conteúdo de Abertura. <a href="https://"> Acessar </a></li>
-<li> Módulo II - HTML/CSS3. <a href="https://"> Acessar </a></li>
-<li> Módulo III - Javascript. <a href="https://"> Acessar </a></li>
-<li> Módulo IV - ReactJS. <a href="https://"> Acessar </a></li>
-<li> Módulo V - JAVA/SpringBoot. <a href="https://"> Acessar </a></li>
+<li> Módulo I - Conteúdo de Abertura. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20I%20-%20Conte%C3%BAdo%20de%20Abertura"> Acessar </a></li>
+<li> Módulo II - HTML/CSS3. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20II%20-%20HTMLCSS3"> Acessar </a></li>
+<li> Módulo III - Javascript. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20III%20-%20Javascript"> Acessar </a></li>
+<li> Módulo IV - ReactJS. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20IV%20-%20ReactJS"> Acessar </a></li>
+<li> Módulo V - JAVA/SpringBoot. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20V%20-%20JAVASpringBoot"> Acessar </a></li>
 </ul>
 
 
