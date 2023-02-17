@@ -21,7 +21,6 @@ O programa Carrefour Web Developer tem como foco principal formar profissionais 
 <li> Módulo V - JAVA/SpringBoot. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20V%20-%20JAVASpringBoot"> Acessar </a></li>
 </ul>
 
-
 <h2 dir="auto"> 📝 Lista de Atividades </h2>
 Esta área é reservada para as atividades desenvolvidas por mim no dia a dia, durante toda a jornada.
 As atividades estão separadas por Módulos.
