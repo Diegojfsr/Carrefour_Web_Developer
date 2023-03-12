@@ -11,8 +11,6 @@ Esse é o meu repositorio de projetos e codigos no programa Carrefour Web Develo
 <h2> 🎯 Objetivo </h2>
 O programa Carrefour Web Developer tem como foco principal formar profissionais developers  nas tecnologias JavaScript, ReactJS, JAVA e Springboot. Além da oportunidade de aprofundar ainda mais o conhecimento em tecnologia, desenvolver o raciocínio lógico e ainda  construir projetos com entregáveis de código juntamente com os melhores experts do mercado. ainda  construir projetos com entregáveis de código juntamente com os melhores experts do mercado.
 
-
-
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
 <li> Módulo I - Conteúdo de Abertura. <a href="https://github.com/Diegojfsr/Carrefour_Web_Developer/tree/main/Modulos/M%C3%B3dulo%20I%20-%20Conte%C3%BAdo%20de%20Abertura"> Acessar </a></li>
